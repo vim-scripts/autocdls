@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5016
+
+Overview
+
+Screenshot:
+  http://cl.ly/image/1t0W0V3W3E2O/autocdls.gif
+
+The Github repository for the autocdls is available at:
+  https://github.com/b4b4r07/vim-autocdls
+
+Usage:
+  :Ls {path}
+    List the files and directories in {path} like a shell 'ls'.
+
+  In addition, execute ':Ls' automatically after executing ':cd'.
